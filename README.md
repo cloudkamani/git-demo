@@ -2,11 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Web site content
 
-Initializr is an HTML5 templates generator to help you getting started with a new project based on HTML5 Boilerplate. 
-It generates for you a clean customizable template with just what you need to start!
-
-
-Initializr is an HTML5 templates generator to help you getting started with a new project based on HTML5 Boilerplate. 
-It generates for you a clean customizable template with just what you need to start!
+1. index.html
